@@ -6,3 +6,7 @@ application is built using Java Swing, which allows the creation of windows, but
 and labels for a simple 2D interface. 
 
 Technologies used : Java and Swing.
+
+How to run :
+
+Use any Java debugger and run the file.
